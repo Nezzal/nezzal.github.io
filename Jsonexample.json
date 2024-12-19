@@ -1,0 +1,19 @@
+/* JSON Example */
+{
+    "publications": [
+        {
+            "title": "Publication Title 1",
+            "authors": "Author A, Author B",
+            "publicationDate": "2023-01-01",
+            "abstract": "A brief summary of the first publication.",
+            "link": "http://example.com/publication1"
+        },
+        {
+            "title": "Publication Title 2",
+            "authors": "Author C, Author D",
+            "publicationDate": "2022-12-15",
+            "abstract": "A brief summary of the second publication.",
+            "link": "http://example.com/publication2"
+        }
+    ]
+}
